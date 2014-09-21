@@ -1,5 +1,4 @@
-testing a
+testing a.txt
 testing b also
-LEts have fun today
-ok
-
+this seems good!
+>>>>>>> 870abcaf48cb67039b6987dd32d0c07878a36280
